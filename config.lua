@@ -47,7 +47,7 @@ config.cars = {
 		{ name = "2002 Lotus Esprit V8", model = "esprit02" },
 		{ name = "1984 Mazda RX-7 Stanced Version", model = "84rx7k" },
 		{ name = "2002 Mazda RX-7 FD Drag", model = "84rx7k" },
-		{ name = "1995 Mercedes-Benz SL500", model = "sl500" }
+		{ name = "1995 Mercedes-Benz SL500", model = "sl500" },
 		{ name = "Nissan Fairlady Z Z33", model = "maj350" },
 		{ name = "1996 Subaru Alcyone SVX", model = "svx" },
 		{ name = "2015 Volkswagen Golf GTI MK7", model = "golfgti7" },
