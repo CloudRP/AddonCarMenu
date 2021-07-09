@@ -16,7 +16,12 @@ config.lang = 'en'
 --]]
 
 config.cars = {
-	
+	["Civilian Everyday"] = {
+		{ name = "Acura TL Type-S", model = "tltypes" },
+		{ name = "Aston Martin DBX Carbon Edition", model = "amdbx" },
+		{ name = "Aston Martin DBX Carbon Edition", model = "ast" },
+		{ name = "1995 Audi Cabriolet (RS2) (B4)", model = "80B4" },
+	}
 }
 
 config.languages = {
